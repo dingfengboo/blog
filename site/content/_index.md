@@ -14,7 +14,7 @@ products:
   - image: /img/illustrations-coffee-gear.svg
     text: Test_2
 values:
-  heading: ''
-  text: ''
+  heading: none
+  text: none
 ---
 

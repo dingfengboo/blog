@@ -1,6 +1,6 @@
 ---
 title: TO DO
-image: /img/100.png
+image: /img/blog-chemex.jpg
 heading: What we offer
 description: TO DO
 intro:
